@@ -24,4 +24,11 @@ meu objetivo no momento é trabalhar como Front-end Junior, para o meu crescimen
 ![NextJs](https://img.shields.io/badge/-Nextjs-ffffff?style=flat&logoColor=fff&logo=nextjs)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;
 
+## Portifolio
+
+https://app-nextjs-theta.vercel.app/
+
+<br/><br/>
+
 ###### "O início da sabedoria é a admissão da própria ignorância. Todo o meu saber consiste em saber que nada sei" - Sócrates
+
