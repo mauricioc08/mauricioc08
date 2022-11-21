@@ -30,5 +30,5 @@ https://app-nextjs-theta.vercel.app/
 
 <br/><br/>
 
-###### "O início da sabedoria é a admissão da própria ignorância. Todo o meu saber consiste em saber que nada sei" - Sócrates
+
 
