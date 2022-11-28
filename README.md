@@ -9,7 +9,7 @@
 Sou o Mauricio Cassiano Sou formado em Processos Gerenciais, Pós graduado em Gestão de pessoas.
 Trabalhei na empresa Carrefour como Gerenciador de postos, porem decidi seguir meu sonho de infância que é trabalhar na área de tecnologia, em Dezembro de 2021 decidir sair da empresa pra me dedicar aos estudos de programação e fazer essa migração de área.
 Estudando no momento: HTML, CSS, JAVASCRIPT E REACTJS.
-meu objetivo no momento é trabalhar como Front-end Junior, para o meu crescimento pessoal e profissional.
+meu objetivo no momento é trabalhar como Front-end Junior, para o meu crescimento profissional.
 
 ![Mauricio GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricioc08&show_icons=true&theme=dracula)
 
