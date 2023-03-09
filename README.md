@@ -22,7 +22,8 @@ meu objetivo no momento é trabalhar como Front-end Junior, para o meu crescimen
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
 ![NextJs](https://img.shields.io/badge/-Nextjs-ffffff?style=flat&logoColor=fff&logo=nextjs)&nbsp;
-![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;
+
+
 
 ## Portifolio
 
