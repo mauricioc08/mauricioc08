@@ -6,10 +6,10 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-2DB540?style=flat&labelColor=whatsapp&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511945396825&text=Olá%20Mauicio!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)](https://api.whatsapp.com/send?phone=5511945396825&text=Olá%20Mauricio!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)&nbsp;
 
 ## Olá! 👋
-Sou o Mauricio Cassiano Sou formado em Processos Gerenciais, Pós graduado em Gestão de pessoas.
-Trabalhei na empresa Carrefour como Gerenciador de postos, porem decidi seguir meu sonho de infância que é trabalhar na área de tecnologia, em Dezembro de 2021 decidir sair da empresa pra me dedicar aos estudos de programação e fazer essa migração de área.
-Estudando no momento: HTML, CSS, JAVASCRIPT E REACTJS.
-meu objetivo no momento é trabalhar como Front-end Junior, para o meu crescimento profissional.
+Sou formado em Processos Gerenciais, Pós graduado em Gestão de pessoas, mas apaixonado por tecnologia.
+Trabalhei na empresa Carrefour como Gerenciador de postos, porem decidi seguir meu sonho de infância que é trabalhar na área de tecnologia, em Dezembro de 2021 decidir sair da empresa pra me dedicar aos estudos de programação e fazer essa migração de área. 
+Estudando no momento: HTML, CSS, JAVASCRIPT, REACTJS E NEXTJS.
+meu objetivo no momento é trabalhar como Front-end Junior.
 
 ![Mauricio GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricioc08&show_icons=true&theme=dracula)
 
