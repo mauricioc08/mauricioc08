@@ -13,7 +13,7 @@ Tenho grande interesse em aprender novas tecnologias e aprimorar minhas habilida
 
 Sou uma pessoa organizada e com forte capacidade de resolução de problemas, o que me permite lidar com projetos complexos e encontrar soluções eficientes para os desafios do dia a dia. Essas habilidades podem ser aplicadas em diversos setores da empresa, desde o desenvolvimento de software até a gestão de projetos.
 
-Estou aberto a oportunidades de estágio ou trainee, pois acredito que essa seja uma excelente maneira de adquirir experiência prática e ampliar meu conhecimento na área. Além disso, estou disposto a me dedicar integralmente às atividades que me forem atribuídas e a colaborar com a equipe para atingir os objetivos da empresa.
+Estou aberto a oportunidades de trainee/Junior, pois acredito que essa seja uma excelente maneira de adquirir experiência prática e ampliar meu conhecimento na área. Além disso, estou disposto a me dedicar integralmente às atividades que me forem atribuídas e a colaborar com a equipe para atingir os objetivos da empresa.
 
 Sou uma pessoa comprometida e proativa, sempre em busca de desafios e novas oportunidades. Acredito que essa postura pode ser uma vantagem para empresas que buscam funcionários dedicados e com iniciativa para contribuir com o crescimento do negócio.
 
