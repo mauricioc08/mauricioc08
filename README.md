@@ -6,20 +6,15 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-2DB540?style=flat&labelColor=whatsapp&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511945396825&text=Olá%20Mauicio!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)](https://api.whatsapp.com/send?phone=5511945396825&text=Olá%20Mauricio!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)&nbsp;
 
 ## Olá! 👋
-Meu nome é Mauricio Cassiano, Sou formado em Processos Gerenciais, Pós graduado em Gestão de pessoas, mas apaixonado por tecnologia.
-Trabalhei na empresa Carrefour como Gerenciador de postos, porem decidi seguir meu sonho de infância que é trabalhar na área de tecnologia, por isso decidir me dedicar aos estudos de programação e fazer essa migração de área.
+Meu nome é Mauricio Cassiano, Sou formado em Processos Gerenciais, Pós graduado em Gestão de pessoas, mas apaixonado por tecnologia. Trabalhei na empresa Carrefour como Gerenciador de postos, porem decidi seguir meu sonho de infância que é trabalhar na área de tecnologia, por isso decidir me dedicar aos estudos de programação e fazer essa migração de área.
 
 Tenho grande interesse em aprender novas tecnologias e aprimorar minhas habilidades de desenvolvimento. Isso me torna um candidato ideal para empresas que valorizam o aprendizado contínuo e a atualização constante de conhecimentos.
 
 Sou uma pessoa organizada e com forte capacidade de resolução de problemas, o que me permite lidar com projetos complexos e encontrar soluções eficientes para os desafios do dia a dia. Essas habilidades podem ser aplicadas em diversos setores da empresa, desde o desenvolvimento de software até a gestão de projetos.
 
-Estou aberto a oportunidades de trainee/Junior, pois acredito que essa seja uma excelente maneira de adquirir experiência prática e ampliar meu conhecimento na área. Além disso, estou disposto a me dedicar integralmente às atividades que me forem atribuídas e a colaborar com a equipe para atingir os objetivos da empresa.
-
 Sou uma pessoa comprometida e proativa, sempre em busca de desafios e novas oportunidades. Acredito que essa postura pode ser uma vantagem para empresas que buscam funcionários dedicados e com iniciativa para contribuir com o crescimento do negócio.
 
 Tenho habilidades de comunicação e trabalho em equipe, o que me permite colaborar com colegas de diferentes áreas e ajudar a desenvolver soluções integradas e eficientes. Isso pode ser uma vantagem para empresas que valorizam um ambiente de trabalho colaborativo e diverso.
-
-Meu objetivo no momento é trabalhar como Desenvolvedor Front-end Junior.
 
 
 [![Mauricio GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricioc08&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&hide_title=true&card_width=490)](https://github.com/mauricio08)
