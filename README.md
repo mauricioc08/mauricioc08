@@ -17,7 +17,7 @@ Sou uma pessoa comprometida e proativa, sempre em busca de desafios e novas opor
 Tenho habilidades de comunicação e trabalho em equipe, o que me permite colaborar com colegas de diferentes áreas e ajudar a desenvolver soluções integradas e eficientes. Isso pode ser uma vantagem para empresas que valorizam um ambiente de trabalho colaborativo e diverso.
 
 
-[![Mauricio GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricioc08&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&hide_title=true&card_width=490)](https://github.com/mauricio08)
+[![Mauricio GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricioc08&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&hide_title=true&card_width=490)](https://github.com/mauricioc08)
 [![Mauricio GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mauricioc08&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/mauricioc08)
 
 ## Tecnologias que eu Utilizo! 💻 &nbsp;
