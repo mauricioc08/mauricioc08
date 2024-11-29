@@ -15,7 +15,7 @@ Estou aberto a oportunidades que permitem contribuir para criação de interface
 Fique à vontade para entrar em contato para discutir oportunidades de colaboração ou para saber mais sobre meu trabalho.<br> Estou ansioso para me conectar com profissionais da área e compartilhar experiências e conhecimentos.
 
 
-## Tecnologias que eu Utilizo! 💻 &nbsp;
+## Tecnologias que eu Utilizo!! 💻 &nbsp;
 
   <br/>
 
