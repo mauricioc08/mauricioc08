@@ -31,7 +31,7 @@ Fique √† vontade para entrar em contato para discutir oportunidades de colabora√
 
 ## Portifolio
 
-### (https://mauricioc08.github.io/mauricio_portifolio/)
+### https://mauricioc08.github.io/mauricio_portifolio/
 
 <br/><br/>
 
